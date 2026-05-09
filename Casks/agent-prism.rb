@@ -1,6 +1,6 @@
 cask "agent-prism" do
-  version "0.1.0-alpha"
-  sha256 "bd8da3477125e800d9ec5d7d6ed3e974f1fad1941e6e4121aacfd7d9e5555571"
+  version "0.1.1-alpha"
+  sha256 "9d8ffe8b0cfdddd709de6143e54d400f4f707de1c2b16b18a6f25762a2329d5b"
 
   url "https://github.com/liangpengyv/agent-prism/releases/download/v#{version}/AgentPrism_#{version}_aarch64.dmg"
   name "AgentPrism"
